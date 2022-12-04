@@ -6,9 +6,9 @@ const double pi = 3.14159265358979323846;
 
 // Write a program in which make rectangle using print statement (*)?
 print("**********");
-print("**********");
-print("**********");
-print("**********");
+print("*        *");
+print("*        *");
+print("*        *");
 print("**********");
 
 // Write a program to perform all relational operators(>,<,>=,<=).
